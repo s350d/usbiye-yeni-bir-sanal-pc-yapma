@@ -1,1 +1,1 @@
-# usbiye-yeni-bir-sanal-pc-yapma
+# usbiye-yeni-bir-sanal-pc-yapma hazır degil
